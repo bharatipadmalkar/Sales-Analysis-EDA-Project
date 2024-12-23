@@ -1,1 +1,2 @@
-# Sales-Analysis-EDA-Project
+# Sales-Data-Analysis-Project-EDA
+Jupyter Notebook
